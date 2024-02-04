@@ -6,6 +6,7 @@
 - Graham Scan Algorithm
 - Jarvis March or Gift Wrapping Algorithm
 - Bruteforce Algorithm
+- Quick Hull
 - My own researched and Implemented Algorithm
 
 ## Line Intersection Algorithms
