@@ -1,6 +1,6 @@
 # Convex-Hull-and-Line-Intersection-Algorithms-With-Visualization
 
-## The AlgorithmProject.pynb file contains both convex hull as well as line intersection algorithms
+## The AlgorithmProject.pynb file contains both convex hull as well as line intersection algorithms and problem a and b file contain graph algorithms
 
 ## Convex Hull Algorithms:
 - Graham Scan Algorithm
@@ -13,3 +13,9 @@
 - CCW
 - Cramers Method
 - Vector Product
+
+## Graph Algorithms
+- Havel Hakimi
+- Dijkstra Algorithm
+- Kruskal Algorithm
+- Max Flow Algorithm
